@@ -19,7 +19,7 @@ The project was built to explore:
 
 ## Main Dashboard
 
-![Atlas Dashboard](assets/full view.png)
+![Atlas Dashboard](assets/fullview.png)
 
 ---
 
