@@ -19,19 +19,19 @@ The project was built to explore:
 
 ## Main Dashboard
 
-![Atlas Dashboard](assets/atlas-dashboard.png)
+![Atlas Dashboard](assets/full view.png)
 
 ---
 
 ## Git-Style Diff Preview
 
-![Atlas Diff Preview](assets/atlas-diff-preview.png)
+![Atlas Diff Preview](assets/git_style_diff_preview.png)
 
 ---
 
 ## Persistent Runtime Terminal
 
-![Atlas Terminal](assets/atlas-terminal.png)
+![Atlas Terminal](assets/runtime_terminal.png)
 
 ---
 
